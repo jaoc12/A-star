@@ -1,0 +1,15 @@
+
+------------------ Concluzie -----------------------
+Lista open e vida, nu avem drum de la nodul start la nodul scop
+Timpul necesar a fost 2 milisecunde.
+A fost nevoie de 9 de mutari.
+
+------------------ Concluzie -----------------------
+Lista open e vida, nu avem drum de la nodul start la nodul scop
+Timpul necesar a fost 2 milisecunde.
+A fost nevoie de 9 de mutari.
+
+------------------ Concluzie -----------------------
+Lista open e vida, nu avem drum de la nodul start la nodul scop
+Timpul necesar a fost 0 milisecunde.
+A fost nevoie de 9 de mutari.

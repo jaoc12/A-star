@@ -1,0 +1,15 @@
+
+------------------ Concluzie -----------------------
+ionel > alina v diana v costin v simona v razvan v andrei >> oana ^ radu > patricia v victor >> bobita ^ gigel ^ tamara ^ dora ^ nadia ^ carmen > monica 
+Timpul necesar a fost 6 milisecunde.
+A fost nevoie de 26 de mutari.
+
+------------------ Concluzie -----------------------
+ionel > alina v diana v costin v simona v razvan v andrei >> oana ^ radu > patricia v victor >> bobita ^ gigel ^ tamara > dragos ^ marin ^ mihai ^ monica 
+Timpul necesar a fost 5 milisecunde.
+A fost nevoie de 23 de mutari.
+
+------------------ Concluzie -----------------------
+ionel > alina v diana v costin v simona v razvan v andrei >> oana ^ radu > patricia v victor v nicoleta >> maria > gabi ^ dorel ^ elena < gigel ^ tamara ^ dora ^ nadia ^ carmen > monica 
+Timpul necesar a fost 3 milisecunde.
+A fost nevoie de 31 de mutari.

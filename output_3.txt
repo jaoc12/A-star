@@ -1,0 +1,15 @@
+
+------------------ Concluzie -----------------------
+andrei >> oana ^ radu > patricia 
+Timpul necesar a fost 1 milisecunde.
+A fost nevoie de 5 de mutari.
+
+------------------ Concluzie -----------------------
+andrei >> oana ^ radu > patricia 
+Timpul necesar a fost 1 milisecunde.
+A fost nevoie de 5 de mutari.
+
+------------------ Concluzie -----------------------
+andrei >> oana ^ radu > patricia 
+Timpul necesar a fost 1 milisecunde.
+A fost nevoie de 22 de mutari.
