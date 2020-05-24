@@ -1,15 +1,15 @@
 
 ------------------ Concluzie -----------------------
 ionel 
-Timpul necesar a fost 0 milisecunde.
+Timpul necesar a fost de 0 milisecunde.
 A fost nevoie de 1 de mutari.
 
 ------------------ Concluzie -----------------------
 ionel 
-Timpul necesar a fost 0 milisecunde.
+Timpul necesar a fost de 0 milisecunde.
 A fost nevoie de 1 de mutari.
 
 ------------------ Concluzie -----------------------
 ionel 
-Timpul necesar a fost 0 milisecunde.
+Timpul necesar a fost de 0 milisecunde.
 A fost nevoie de 1 de mutari.
